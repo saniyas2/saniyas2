@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saniya Samir Shinde</h1>
 <h3 align="center">Data Science Master's Student | Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Mining and Data Warehousing**
-
+- 🌱 I’m currently learning **Machine Learning and Data Visualization**
+  
+- 🌱 I have completed introduction courses related to **Data Science, Data Mining and Data Warehousing**
+  
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 📫 How to reach me **saniya.shinde@gwu.edu**
