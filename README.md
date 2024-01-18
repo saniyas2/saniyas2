@@ -21,4 +21,3 @@
 
 ![saniyas2's Stats](https://github-readme-stats.vercel.app/api?username=saniyas2&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![saniyas2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saniyas2&theme=vue-dark&hide_border=false)
