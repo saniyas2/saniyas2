@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Visualization**
   
-- 🌱 I have completed introduction courses related to **Data Science, Data Mining and Data Warehousing**
+- 🌱 I have completed courses related to **Data Science, Data Mining, Data Warehousing, Machine Learning, Data Visualization, Data Structures, Natural Language Processing, Computer Vision and Cloud Computing.**
   
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
