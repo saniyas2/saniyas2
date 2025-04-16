@@ -5,7 +5,7 @@
   
 - 🌱 I have completed courses related to **Data Science, Data Mining, Data Warehousing, Machine Learning, Data Visualization, Data Structures, Natural Language Processing, Computer Vision and Cloud Computing.**
   
-- 👯 I’m looking to collaborate on **Machine Learning, LLM and Data Analytics Projcets.*
+- 👯 I’m looking to collaborate on **Machine Learning, LLM and Data Analytics Projects.**
 
 - 📫 How to reach me **saniya.shinde@gwu.edu**
 
